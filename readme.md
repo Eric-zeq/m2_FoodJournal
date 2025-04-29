@@ -84,8 +84,7 @@ Food Journal is a mobile application built using **React Native** and **Expo**. 
 4. Open the app on your device or emulator:
    - Use the [Expo Go app](https://expo.dev/accounts/ericzq/projects/foodJournalTracker/builds/79cb4843-535e-4dcf-ab60-14715ad51317) 
    - Scan the QR code.
-   ![Img](https://raw.githubusercontent.com/Eric-zeq/m2_FoodJournal/main/extra/qr.jpg)
-   <img src="extra/qr.jpg" width="100" height="100" alt="QR">
+   <img src="extra/qr.png" width="100" height="100" alt="QR">
 
 ## Folder Structure
 
@@ -117,9 +116,9 @@ Food Journal is a mobile application built using **React Native** and **Expo**. 
      - Update an existing journal entry and save changes.
 
 ## ScreenShot
-<img src="extra/login.jpg" width="100" height="150" alt="login">
-<img src="extra/home.jpg" width="100" height="150" alt="home">
-<img src="extra/manager.jpg" width="100" height="150" alt="manager">
+<img src="extra/login.png" width="100" height="150" alt="login">
+<img src="extra/home.png" width="100" height="150" alt="home">
+<img src="extra/manager.png" width="100" height="150" alt="manager">
 
 ## Debug and Fix
 [Content](extra/fixAnddebug.md)
